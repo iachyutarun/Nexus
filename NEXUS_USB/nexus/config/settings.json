@@ -1,0 +1,19 @@
+{
+  "username": "achyut",
+  "password": "200712",
+  "ai_engine": "rule",
+  "local_model_enabled": false,
+  "local_model_path": "H:/NEXUS_USB/models/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+  "theme": "dark",
+  "exhibition_mode": false,
+  "font_family": "Consolas",
+  "font_size": 11,
+  "users": {
+    "achyut": {
+      "password": "200712"
+    },
+    "guest": {
+      "password": "guest"
+    }
+  }
+}

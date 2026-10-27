@@ -1,0 +1,46 @@
+[
+  {
+    "command": "time",
+    "time": ""
+  },
+  {
+    "command": "help",
+    "time": ""
+  },
+  {
+    "command": "demo",
+    "time": ""
+  },
+  {
+    "command": "open google",
+    "time": ""
+  },
+  {
+    "command": "NEXUS C:> model on models/your-model.gguf",
+    "time": ""
+  },
+  {
+    "command": "model on models/your-model.gguf",
+    "time": ""
+  },
+  {
+    "command": "open google",
+    "time": ""
+  },
+  {
+    "command": "time",
+    "time": ""
+  },
+  {
+    "command": "what is the time",
+    "time": ""
+  },
+  {
+    "command": "hi",
+    "time": ""
+  },
+  {
+    "command": "help",
+    "time": ""
+  }
+]
